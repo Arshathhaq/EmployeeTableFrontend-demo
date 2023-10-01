@@ -20,4 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Backend in Spring boot
-see [githubl link](https://github.com/Arshathhaq/EmployeeTable-demo)
+see [github-link](https://github.com/Arshathhaq/EmployeeTable-demo)
